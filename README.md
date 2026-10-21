@@ -104,10 +104,6 @@ The Power BI dashboard provides a visual summary of customer spending, satisfact
 
 SQL was used to investigate customer behavior and answer business-related questions.
 
-The query file is available here:
-
-[`sql/customer_analysis.sql`](sql/customer_analysis.sql)
-
 Example analysis areas include:
 
 - Revenue by city
